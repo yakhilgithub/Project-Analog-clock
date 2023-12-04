@@ -1,5 +1,6 @@
 # Project-Analog-clock
-#Day 4 of 30 days 30 project challenge 
+# Day 4 of 30 days 30 project challenge 
+
 "Analog Clock Project: Uses HTML,CSS and JS to build an aesthetically pleasing analog clock. It has an elegant appearance and smoothly revolving hands that show the time precisely. "
 HTML:
 "The HTML file defines the structure and layout of the analog clock. It includes the container for the clock, the clock face, and the positioning of the hour, minute, and second hands."
